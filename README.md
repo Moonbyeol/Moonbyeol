@@ -15,7 +15,7 @@
 | 📚 Frameworks / Platforms / Libraries 	| ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)|
 | 💻 IDEs / Editors 	| ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/Pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)|
 | 💾 Databases 	| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)|
-
+|👫 Others | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)|
 
 </p>
 <hr>
